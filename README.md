@@ -16,6 +16,6 @@ I'm not sure but previous versions of matplolib don't support PyQt5.
 
 Embedding matplotlib plot on PyQt5 GUI!
 
-##Read in full on my [blog](http://www.boxcontrol.net/matplolib_pyqt5.html)
+##Read in full on my [blog](http://www.boxcontrol.net/embedding-matplotlib-plot-on-pyqt5-gui.html)
 
 
