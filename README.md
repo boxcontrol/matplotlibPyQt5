@@ -20,4 +20,4 @@ Embedding matplotlib plot on PyQt5 GUI!
 
 ###Screnshot of matplotlibPyQt5titlelabel.py output:
 
-![Alt text](/grid.png)
+![Alt text](https://github.com/boxcontrol/matplotlibPyQt5/blob/master/grid.PNG)
