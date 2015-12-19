@@ -12,10 +12,12 @@ Like in previous python samples I will use Python 3. All things you need for thi
 - [PyQt5](http://www.riverbankcomputing.com/software/pyqt/download5)
 - [Matplotlib 1.4.2](http://matplotlib.org/1.4.2/index.html)
 
-I'm not sure but previous versions of matplolib don't support PyQt5. 
+I'm not sure but previous versions of matplolib don't support PyQt5.
 
 Embedding matplotlib plot on PyQt5 GUI!
 
 ##Read in full on my [blog](http://www.boxcontrol.net/embedding-matplotlib-plot-on-pyqt5-gui.html)
 
+###Screnshot of matplotlibPyQt5titlelabel.py output:
 
+![Alt text](/grid.png)
